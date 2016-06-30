@@ -3,4 +3,5 @@ echo php_info();
 echo 'info page updated.';
 echo 'newly added line by himansu';
 echo 'test line addes.';
+echo 'added by Varun';
 ?>
